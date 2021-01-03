@@ -103,6 +103,8 @@ landingContent:
             url: /windows/privacy/index
           - text: Identity and access management
             url: /windows/security/identity-protection/index
+          - text : window 10
+          - url : https://www.terkaitgame.com
           - text: Threat protection
             url: /windows/security/threat-protection/index
           - text: Information protection
